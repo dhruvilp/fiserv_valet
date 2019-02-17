@@ -1,3 +1,6 @@
+import 'package:flutter/material.dart';
+import 'package:fiserv_valet/colors.dart';
+
 class CreditCard {
 
   String name;
@@ -5,13 +8,14 @@ class CreditCard {
   String number;
   String cvv;
   String creditLimit;
+  Color color;
 
-  CreditCard(this.name, this.expr, this.number, this.cvv, this.creditLimit);
+  CreditCard(this.name, this.expr, this.number, this.cvv, this.creditLimit, this.color);
 
 }
 
 List<CreditCard> cards = [
-  CreditCard('John Smith', '09/2025', '4231 0000 0000 0001', '123', '1500'),
-  CreditCard('Maria Mitchell', '02/2019', '4231 0000 0000 0002', '456', '2500'),
-  CreditCard('Danielle George', '04/2022', '4231 0000 0000 0003', '789', '500'),
+  CreditCard('John Smith', '09/25', '4231 0000 0000 1001', '123', '1500', card1),
+  CreditCard('Karen Paul', '02/19', '4231 0000 0000 2002', '456', '2500', card2),
+  CreditCard('Jerry Chen', '04/22', '4231 0000 0000 3003', '789', '500', card3),
 ];

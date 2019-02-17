@@ -9,3 +9,7 @@ const grey_dark = const Color(0xFF3b3733);
 
 const white = Colors.white;
 const black = Colors.black;
+
+const card1 = const Color(0xFF00a0d5);
+const card2 = const Color(0xFF00a251);
+const card3 = const Color(0xFF6a00d5);
