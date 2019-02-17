@@ -100,6 +100,8 @@
 //    );
 //  }
 //}
+import 'package:fiserv_valet/screens/login.dart';
+import 'package:fiserv_valet/screens/profile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'colors.dart';
@@ -122,10 +124,10 @@ class Main extends StatelessWidget {
       title: 'Diano Valet',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: white,
+        primaryColor: orange,
         accentColor: orange_light,
       ),
-      home: MyHomePage(),
+      home: Login(),
     );
   }
 }
@@ -146,7 +148,7 @@ class _MyHomePageState extends State<MyHomePage> {
         new ItemHiddenMenu(
           name: "Dashboard",
           colorTextUnSelected: white.withOpacity(0.5),
-          colorLineSelected: orange,
+          colorLineSelected: orange_light,
         ),
         Dashboard()));
 
@@ -154,7 +156,7 @@ class _MyHomePageState extends State<MyHomePage> {
         new ItemHiddenMenu(
           name: "My Budget",
           colorTextUnSelected: white.withOpacity(0.5),
-          colorLineSelected: orange,
+          colorLineSelected: orange_light,
         ),
         MyBudget()));
 
@@ -162,7 +164,7 @@ class _MyHomePageState extends State<MyHomePage> {
         new ItemHiddenMenu(
           name: "My Coupons",
           colorTextUnSelected: white.withOpacity(0.5),
-          colorLineSelected: orange,
+          colorLineSelected: orange_light,
         ),
         MyCoupons()));
 
@@ -170,9 +172,17 @@ class _MyHomePageState extends State<MyHomePage> {
         new ItemHiddenMenu(
           name: "Investments",
           colorTextUnSelected: white.withOpacity(0.5),
-          colorLineSelected: orange,
+          colorLineSelected: orange_light,
         ),
         Investment()));
+
+    items.add(new ScreenHiddenDrawer(
+        new ItemHiddenMenu(
+          name: "Profile",
+          colorTextUnSelected: white.withOpacity(0.5),
+          colorLineSelected: orange_light,
+        ),
+        Profile()));
 
     super.initState();
   }
@@ -181,9 +191,9 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return HiddenDrawerMenu(
       backgroundColorMenu: grey_dark,
-      backgroundColorAppBar: orange_dark,
+      backgroundColorAppBar: orange,
       elevationAppBar: 0,
-      backgroundMenu: DecorationImage(image: ExactAssetImage('assets/images/drawer_bg.png'),fit: BoxFit.cover),
+//      backgroundMenu: DecorationImage(image: ExactAssetImage('assets/images/drawer_bg.png'),fit: BoxFit.cover),
       screens: items,
     );
 

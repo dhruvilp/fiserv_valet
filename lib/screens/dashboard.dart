@@ -1,32 +1,36 @@
 import 'package:flutter/material.dart';
 import 'package:fiserv_valet/colors.dart';
+import 'package:fiserv_valet/screens/cardlist.dart';
+import 'package:flutter/material.dart';
 
 class Dashboard extends StatelessWidget {
   @override
-  Widget build (BuildContext context) => new Scaffold(
-
-    //App Bar
-//    appBar: new AppBar(
-//      backgroundColor: bluegrey,
-//      title: new Text(
-//        'About HackRU',
-//        style: new TextStyle(
-//          fontSize: Theme.of(context).platform == TargetPlatform.iOS ? 17.0 : 20.0,
-//        ),
-//      ),
-//      elevation: 0.3,
-//    ),
-
-    //Content of tabs
-    body: new PageView(
-      children: <Widget>[
-        new Column(
-          mainAxisAlignment: MainAxisAlignment.center,
+  Widget build(BuildContext context) {
+    return new Scaffold(
+      body: new Container(
+        color: white,
+        child: new Column(
+          mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
-            new Text('Dashboard')
+            new Container(
+              height: 300.0,
+              width: double.infinity,
+              decoration: new BoxDecoration(
+                borderRadius: new BorderRadius.only(topLeft: const Radius.circular(30.0), topRight: const Radius.circular(30.0)),
+                color: Colors.white,
+              ),
+              child: new DefaultTabController(
+                length: 3,
+                child: new Column(
+                  children: <Widget>[
+                    new CardList(),
+                  ],
+                ),
+              ),
+            ),
           ],
-        )
-      ],
-    ),
-  );
+        ),
+      ),
+    );
+  }
 }
