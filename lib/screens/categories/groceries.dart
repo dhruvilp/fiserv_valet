@@ -1,3 +1,4 @@
+import 'package:fiserv_valet/screens/transactions.dart';
 import 'package:flutter/material.dart';
 import 'package:fiserv_valet/colors.dart';
 import 'package:flutter_circular_chart/flutter_circular_chart.dart';
@@ -43,6 +44,25 @@ class Groceries extends MaterialPageRoute<Null> {
             ),
           ),
           SizedBox(height: 5.0),
+          Center(
+            child: Text('Transactions', style: TextStyle(fontSize: 20, fontWeight: FontWeight.w500, color: orange_dark),textAlign: TextAlign.center,),
+          ),
+          Card(
+            margin: EdgeInsets.all(10.0),
+            elevation: 0.0,
+            child: Container(
+              height: 320.0,
+              child: InkWell(
+                splashColor: white,
+                onTap: () { },
+                child: Row(
+                  children: <Widget>[
+                    Expanded(child: Transactions(),),
+                  ],
+                ),
+              ),
+            ),
+          ),
 
 
         ],

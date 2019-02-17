@@ -1,32 +1,130 @@
+import 'package:fiserv_valet/main.dart';
 import 'package:flutter/material.dart';
 import 'package:fiserv_valet/colors.dart';
+import 'package:flutter/services.dart';
 
-class MyBudget extends StatelessWidget {
+class MyBudget extends StatefulWidget {
   @override
-  Widget build (BuildContext context) => new Scaffold(
+  _MyBudgetState createState() => _MyBudgetState();
+}
 
-    //App Bar
-//    appBar: new AppBar(
-//      backgroundColor: bluegrey,
-//      title: new Text(
-//        'About HackRU',
-//        style: new TextStyle(
-//          fontSize: Theme.of(context).platform == TargetPlatform.iOS ? 17.0 : 20.0,
-//        ),
-//      ),
-//      elevation: 0.3,
-//    ),
+class _MyBudgetState extends State<MyBudget > {
 
-    //Content of tabs
-    body: new PageView(
-      children: <Widget>[
-        new Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            new Text('My Budget Page')
-          ],
-        )
-      ],
-    ),
-  );
+  @override
+  Widget build(BuildContext context) {
+    return SingleChildScrollView(
+      padding: const EdgeInsets.symmetric(horizontal: 16.0),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: <Widget>[
+          Center(
+            child: Padding(
+              padding: const EdgeInsets.only(top: 10.0),
+              child: Text('Set Your Budgets', style: TextStyle(fontSize: 20, fontWeight: FontWeight.w500, color: orange_dark),textAlign: TextAlign.center,),
+            ),
+          ),
+          SizedBox(height: 15.0),
+          TextFormField(
+            keyboardType: TextInputType.number,
+            decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Groceries',
+                prefixText: '\$',
+                suffixText: 'USD',
+                suffixStyle: TextStyle(color: Colors.green)),
+            maxLines: 1,
+          ),
+          SizedBox(height: 24.0),
+          TextFormField(
+            keyboardType: TextInputType.number,
+            decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Online Shoppings',
+                prefixText: '\$',
+                suffixText: 'USD',
+                suffixStyle: TextStyle(color: Colors.green)),
+            maxLines: 1,
+          ),
+          SizedBox(height: 24.0),
+          TextFormField(
+            keyboardType: TextInputType.number,
+            decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Gas',
+                prefixText: '\$',
+                suffixText: 'USD',
+                suffixStyle: TextStyle(color: Colors.green)),
+            maxLines: 1,
+          ),
+          SizedBox(height: 24.0),
+          TextFormField(
+            keyboardType: TextInputType.number,
+            decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Eat-Out',
+                prefixText: '\$',
+                suffixText: 'USD',
+                suffixStyle: TextStyle(color: Colors.green)),
+            maxLines: 1,
+          ),
+          SizedBox(height: 24.0),
+          TextFormField(
+            keyboardType: TextInputType.number,
+            decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Misc.',
+                prefixText: '\$',
+                suffixText: 'USD',
+                suffixStyle: TextStyle(color: Colors.green)),
+            maxLines: 1,
+          ),
+          SizedBox(height: 24.0),
+          TextFormField(
+            keyboardType: TextInputType.number,
+            decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Passenger Railways',
+                prefixText: '\$',
+                suffixText: 'USD',
+                suffixStyle: TextStyle(color: Colors.green)),
+            maxLines: 1,
+          ),
+          SizedBox(height: 24.0),
+          TextFormField(
+            keyboardType: TextInputType.number,
+            decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Internet & Media',
+                prefixText: '\$',
+                suffixText: 'USD',
+                suffixStyle: TextStyle(color: Colors.green)),
+            maxLines: 1,
+          ),
+          SizedBox(height: 24.0),
+          TextFormField(
+            keyboardType: TextInputType.number,
+            decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Savings',
+                prefixText: '\$',
+                suffixText: 'USD',
+                suffixStyle: TextStyle(color: Colors.green)),
+            maxLines: 1,
+            onSaved: (String str){},
+          ),
+          SizedBox(height: 24.0),
+          Center(child: new OutlineButton(
+            onPressed: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context) => MyHomePage()));
+            },
+              child: new Text('Save',
+              style: TextStyle(fontSize: 20, color: orange),)
+            ),
+          ),
+          SizedBox(height: 24.0),
+        ],
+      )
+    );
+  }
 }

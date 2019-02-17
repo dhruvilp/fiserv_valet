@@ -23,6 +23,7 @@ dependencies:
   groovin_material_icons: ^1.1.6
   hidden_drawer_menu: ^0.5.0
   flutter_circular_chart: ^0.1.0
+  flutter_range_slider: ^1.1.0
 
 dev_dependencies:
   flutter_test:

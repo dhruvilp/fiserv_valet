@@ -77,7 +77,7 @@ class CategoryListState extends State<CategoryList>
             height: 70.0,
             child: InkWell(
               splashColor: white,
-              onTap: () { Navigator.push(context, OnlineShoppings());},
+              onTap: () { Navigator.push(context, Online());},
               child: Row(
                 children: <Widget>[
                   Expanded(

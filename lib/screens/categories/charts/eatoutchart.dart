@@ -24,9 +24,9 @@ class _EatOutChartState extends State<EatOutChart> {
             initialChartData: <CircularStackEntry>[
               new CircularStackEntry(
                 <CircularSegmentEntry>[
-                  new CircularSegmentEntry(33.33, orange, rankKey: 'completed',
+                  new CircularSegmentEntry(50.0, orange, rankKey: 'completed',
                   ),
-                  new CircularSegmentEntry(66.67, Colors.orange[200], rankKey: 'remaining',
+                  new CircularSegmentEntry(50.0, Colors.orange[200], rankKey: 'remaining',
                   ),
                 ],
                 rankKey: 'progress',
@@ -35,7 +35,7 @@ class _EatOutChartState extends State<EatOutChart> {
             chartType: CircularChartType.Radial,
             edgeStyle: SegmentEdgeStyle.round,
             percentageValues: true,
-            holeLabel: 'USED\n  1/3',
+            holeLabel: 'USED\n  50%',
             labelStyle: TextStyle(fontSize: 20.0, color: orange_dark),
           )
       ),

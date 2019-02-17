@@ -35,7 +35,7 @@ class _GroceryChartState extends State<GroceryChart> {
             chartType: CircularChartType.Radial,
             edgeStyle: SegmentEdgeStyle.round,
             percentageValues: true,
-            holeLabel: 'USED\n  1/3',
+            holeLabel: 'USED\n  30%',
             labelStyle: TextStyle(fontSize: 20.0, color: orange_dark),
           )
       ),
