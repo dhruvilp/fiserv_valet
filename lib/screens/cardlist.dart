@@ -1,7 +1,6 @@
 import 'package:fiserv_valet/screens/creditcard.dart';
 import 'package:flutter/material.dart';
 import 'package:fiserv_valet/colors.dart';
-import 'package:flip_card/flip_card.dart';
 
 class CardList extends StatefulWidget {
   @override
@@ -42,9 +41,22 @@ class CardListState extends State<CardList> {
                       Padding(
                           padding: const EdgeInsets.only(
                               left: 16.0, top: 10.0, bottom: 0.0),
-                          child: new Text('BANK',
-                              style: const TextStyle(fontSize: 20.0, color: white),
-                              textAlign: TextAlign.center)
+                          child: Row(
+                            children: <Widget>[
+                              Padding(
+                                padding: const EdgeInsets.only(top: 2.0),
+                                child: new Text('BANK',
+                                    style: const TextStyle(fontSize: 20.0, color: white),
+                                    textAlign: TextAlign.center),
+                              ),
+                              Padding(
+                                padding: const EdgeInsets.only(left: 180.0),
+                                child: new Text(card.creditLimit,
+                                    style: const TextStyle(fontSize: 20.0, color: white),
+                                    textAlign: TextAlign.center),
+                              ),
+                            ],
+                          )
                       ),
                       Padding(
                         padding: const EdgeInsets.only(
@@ -64,7 +76,7 @@ class CardListState extends State<CardList> {
                           children: <Widget>[
                             Padding(
                               padding: const EdgeInsets.all(0.0),
-                              child: new Text('EXPR', style: TextStyle(color: white, fontSize: 10,),),
+                              child: new Text('VALID\nTHRU', style: TextStyle(color: white, fontSize: 8,),),
                             ),
                             Padding(
                               padding: const EdgeInsets.only(left: 15.0),

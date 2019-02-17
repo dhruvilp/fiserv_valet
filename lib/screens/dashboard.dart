@@ -36,8 +36,6 @@ class Dashboard extends StatelessWidget {
               height: 350.0,
               child: new CategoryList(),
             )
-
-
           ],
         ),
       ),

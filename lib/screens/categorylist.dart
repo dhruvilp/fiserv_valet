@@ -25,6 +25,22 @@ class CategoryListState extends State<CategoryList>
           child: Text('February 2019', style: TextStyle(fontSize: 20, fontWeight: FontWeight.w500, color: orange_dark),),
         ),
         SizedBox(height: 5.0),
+        Row(
+          children: <Widget>[
+            Padding(
+              padding: const EdgeInsets.only(left: 12.0, bottom: 0.0),
+              child: new Text("Amount Spent", style: const TextStyle(fontSize: 15.0, color: grey_light)),
+            ),
+            Padding(
+              padding: const EdgeInsets.only(left: 125.0, bottom: 5.0, top: 5.0),
+              child: new Text("\$1,400", style: const TextStyle(fontSize: 25.0, color: grey_dark, fontWeight: FontWeight.w700)),
+            ),
+            Padding(
+              padding: const EdgeInsets.only(left: 10.0, bottom: 5.0, top: 5.0),
+              child: new Text("/ 1,500", style: const TextStyle(fontSize: 15.0, color: grey_dark, fontWeight: FontWeight.w700)),
+            ),
+          ],
+        ),
         Card(
           color: orange,
           margin: EdgeInsets.all(10.0),
@@ -46,7 +62,7 @@ class CategoryListState extends State<CategoryList>
                   ),
                   Padding(
                     padding: const EdgeInsets.only(right: 20),
-                    child: new Text("\$1500", style: TextStyle(fontSize: 20, color: white),),
+                    child: new Text("\$155", style: TextStyle(fontSize: 20, color: white),),
                   ),
                 ],
               ),
@@ -74,7 +90,7 @@ class CategoryListState extends State<CategoryList>
                   ),
                   Padding(
                     padding: const EdgeInsets.only(right: 20),
-                    child: new Text("\$2500", style: TextStyle(fontSize: 20, color: white),),
+                    child: new Text("\$860", style: TextStyle(fontSize: 20, color: white),),
                   ),
                 ],
               ),
@@ -102,7 +118,7 @@ class CategoryListState extends State<CategoryList>
                   ),
                   Padding(
                     padding: const EdgeInsets.only(right: 20),
-                    child: new Text("\$500", style: TextStyle(fontSize: 20, color: white),),
+                    child: new Text("\$121", style: TextStyle(fontSize: 20, color: white),),
                   ),
                 ],
               ),
@@ -130,7 +146,7 @@ class CategoryListState extends State<CategoryList>
                   ),
                   Padding(
                     padding: const EdgeInsets.only(right: 20),
-                    child: new Text("\$1000", style: TextStyle(fontSize: 20, color: white),),
+                    child: new Text("\$215", style: TextStyle(fontSize: 20, color: white),),
                   ),
                 ],
               ),

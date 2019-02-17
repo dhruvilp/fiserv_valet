@@ -1,0 +1,1142 @@
+[
+  {
+    "MCC": 742,
+    "Merchant Category": "Veterinary Services"
+  },
+  {
+    "MCC": 763,
+    "Merchant Category": "Agricultural Cooperative"
+  },
+  {
+    "MCC": 780,
+    "Merchant Category": "Landscaping Services"
+  },
+  {
+    "MCC": 1520,
+    "Merchant Category": "General Contractors"
+  },
+  {
+    "MCC": 1711,
+    "Merchant Category": "Heating, Plumbing, A/C"
+  },
+  {
+    "MCC": 1731,
+    "Merchant Category": "Electrical Contractors"
+  },
+  {
+    "MCC": 1740,
+    "Merchant Category": "Masonry, Stonework, and Plaster"
+  },
+  {
+    "MCC": 1750,
+    "Merchant Category": "Carpentry Contractors"
+  },
+  {
+    "MCC": 1761,
+    "Merchant Category": "Roofing/Siding, Sheet Metal"
+  },
+  {
+    "MCC": 1771,
+    "Merchant Category": "Concrete Work Contractors"
+  },
+  {
+    "MCC": 1799,
+    "Merchant Category": "Special Trade Contractors"
+  },
+  {
+    "MCC": 2741,
+    "Merchant Category": "Miscellaneous Publishing and Printing"
+  },
+  {
+    "MCC": 2791,
+    "Merchant Category": "Typesetting, Plate Making, and Related Services"
+  },
+  {
+    "MCC": 2842,
+    "Merchant Category": "Specialty Cleaning"
+  },
+  {
+    "MCC": "3000-3299",
+    "Merchant Category": "Airlines"
+  },
+  {
+    "MCC": "3351-3441",
+    "Merchant Category": "Car Rental"
+  },
+  {
+    "MCC": "3501-3790",
+    "Merchant Category": "Hotels/Motels/Inns/Resorts"
+  },
+  {
+    "MCC": 4011,
+    "Merchant Category": "Railroads"
+  },
+  {
+    "MCC": 4111,
+    "Merchant Category": "Commuter Transport, Ferries"
+  },
+  {
+    "MCC": 4112,
+    "Merchant Category": "Passenger Railways"
+  },
+  {
+    "MCC": 4119,
+    "Merchant Category": "Ambulance Services"
+  },
+  {
+    "MCC": 4121,
+    "Merchant Category": "Taxicabs/Limousines"
+  },
+  {
+    "MCC": 4131,
+    "Merchant Category": "Bus Lines"
+  },
+  {
+    "MCC": 4214,
+    "Merchant Category": "Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services"
+  },
+  {
+    "MCC": 4215,
+    "Merchant Category": "Courier Services"
+  },
+  {
+    "MCC": 4225,
+    "Merchant Category": "Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage"
+  },
+  {
+    "MCC": 4411,
+    "Merchant Category": "Cruise Lines"
+  },
+  {
+    "MCC": 4457,
+    "Merchant Category": "Boat Rentals and Leases"
+  },
+  {
+    "MCC": 4468,
+    "Merchant Category": "Marinas, Service and Supplies"
+  },
+  {
+    "MCC": 4511,
+    "Merchant Category": "Airlines, Air Carriers"
+  },
+  {
+    "MCC": 4582,
+    "Merchant Category": "Airports, Flying Fields"
+  },
+  {
+    "MCC": 4722,
+    "Merchant Category": "Travel Agencies, Tour Operators"
+  },
+  {
+    "MCC": 4723,
+    "Merchant Category": "TUI Travel - Germany"
+  },
+  {
+    "MCC": 4784,
+    "Merchant Category": "Tolls/Bridge Fees"
+  },
+  {
+    "MCC": 4789,
+    "Merchant Category": "Transportation Services (Not Elsewhere Classified)"
+  },
+  {
+    "MCC": 4812,
+    "Merchant Category": "Telecommunication Equipment and Telephone Sales"
+  },
+  {
+    "MCC": 4814,
+    "Merchant Category": "Telecommunication Services"
+  },
+  {
+    "MCC": 4816,
+    "Merchant Category": "Computer Network Services"
+  },
+  {
+    "MCC": 4821,
+    "Merchant Category": "Telegraph Services"
+  },
+  {
+    "MCC": 4829,
+    "Merchant Category": "Wires, Money Orders"
+  },
+  {
+    "MCC": 4899,
+    "Merchant Category": "Cable, Satellite, and Other Pay Television and Radio"
+  },
+  {
+    "MCC": 4900,
+    "Merchant Category": "Utilities"
+  },
+  {
+    "MCC": 5013,
+    "Merchant Category": "Motor Vehicle Supplies and New Parts"
+  },
+  {
+    "MCC": 5021,
+    "Merchant Category": "Office and Commercial Furniture"
+  },
+  {
+    "MCC": 5039,
+    "Merchant Category": "Construction Materials (Not Elsewhere Classified)"
+  },
+  {
+    "MCC": 5044,
+    "Merchant Category": "Photographic, Photocopy, Microfilm Equipment, and Supplies"
+  },
+  {
+    "MCC": 5045,
+    "Merchant Category": "Computers, Peripherals, and Software"
+  },
+  {
+    "MCC": 5046,
+    "Merchant Category": "Commercial Equipment (Not Elsewhere Classified)"
+  },
+  {
+    "MCC": 5047,
+    "Merchant Category": "Medical, Dental, Ophthalmic, and Hospital Equipment and Supplies"
+  },
+  {
+    "MCC": 5051,
+    "Merchant Category": "Metal Service Centers"
+  },
+  {
+    "MCC": 5065,
+    "Merchant Category": "Electrical Parts and Equipment"
+  },
+  {
+    "MCC": 5072,
+    "Merchant Category": "Hardware, Equipment, and Supplies"
+  },
+  {
+    "MCC": 5074,
+    "Merchant Category": "Plumbing, Heating Equipment, and Supplies"
+  },
+  {
+    "MCC": 5085,
+    "Merchant Category": "Industrial Supplies (Not Elsewhere Classified)"
+  },
+  {
+    "MCC": 5094,
+    "Merchant Category": "Precious Stones and Metals, Watches and Jewelry"
+  },
+  {
+    "MCC": 5099,
+    "Merchant Category": "Durable Goods (Not Elsewhere Classified)"
+  },
+  {
+    "MCC": 5111,
+    "Merchant Category": "Stationary, Office Supplies, Printing and Writing Paper"
+  },
+  {
+    "MCC": 5122,
+    "Merchant Category": "Drugs, Drug Proprietaries, and Druggist Sundries"
+  },
+  {
+    "MCC": 5131,
+    "Merchant Category": "Piece Goods, Notions, and Other Dry Goods"
+  },
+  {
+    "MCC": 5137,
+    "Merchant Category": "Uniforms, Commercial Clothing"
+  },
+  {
+    "MCC": 5139,
+    "Merchant Category": "Commercial Footwear"
+  },
+  {
+    "MCC": 5169,
+    "Merchant Category": "Chemicals and Allied Products (Not Elsewhere Classified)"
+  },
+  {
+    "MCC": 5172,
+    "Merchant Category": "Petroleum and Petroleum Products"
+  },
+  {
+    "MCC": 5192,
+    "Merchant Category": "Books, Periodicals, and Newspapers"
+  },
+  {
+    "MCC": 5193,
+    "Merchant Category": "Florists Supplies, Nursery Stock, and Flowers"
+  },
+  {
+    "MCC": 5198,
+    "Merchant Category": "Paints, Varnishes, and Supplies"
+  },
+  {
+    "MCC": 5199,
+    "Merchant Category": "Nondurable Goods (Not Elsewhere Classified)"
+  },
+  {
+    "MCC": 5200,
+    "Merchant Category": "Home Supply Warehouse Stores"
+  },
+  {
+    "MCC": 5211,
+    "Merchant Category": "Lumber, Building Materials Stores"
+  },
+  {
+    "MCC": 5231,
+    "Merchant Category": "Glass, Paint, and Wallpaper Stores"
+  },
+  {
+    "MCC": 5251,
+    "Merchant Category": "Hardware Stores"
+  },
+  {
+    "MCC": 5261,
+    "Merchant Category": "Nurseries, Lawn and Garden Supply Stores"
+  },
+  {
+    "MCC": 5271,
+    "Merchant Category": "Mobile Home Dealers"
+  },
+  {
+    "MCC": 5300,
+    "Merchant Category": "Wholesale Clubs"
+  },
+  {
+    "MCC": 5309,
+    "Merchant Category": "Duty Free Stores"
+  },
+  {
+    "MCC": 5310,
+    "Merchant Category": "Discount Stores"
+  },
+  {
+    "MCC": 5311,
+    "Merchant Category": "Department Stores"
+  },
+  {
+    "MCC": 5331,
+    "Merchant Category": "Variety Stores"
+  },
+  {
+    "MCC": 5399,
+    "Merchant Category": "Miscellaneous General Merchandise"
+  },
+  {
+    "MCC": 5411,
+    "Merchant Category": "Grocery Stores, Supermarkets"
+  },
+  {
+    "MCC": 5422,
+    "Merchant Category": "Freezer and Locker Meat Provisioners"
+  },
+  {
+    "MCC": 5441,
+    "Merchant Category": "Candy, Nut, and Confectionery Stores"
+  },
+  {
+    "MCC": 5451,
+    "Merchant Category": "Dairy Products Stores"
+  },
+  {
+    "MCC": 5462,
+    "Merchant Category": "Bakeries"
+  },
+  {
+    "MCC": 5499,
+    "Merchant Category": "Miscellaneous Food Stores - Convenience Stores and Specialty Markets"
+  },
+  {
+    "MCC": 5511,
+    "Merchant Category": "Car and Truck Dealers (New & Used) Sales, Service, Repairs Parts and Leasing"
+  },
+  {
+    "MCC": 5521,
+    "Merchant Category": "Car and Truck Dealers (Used Only) Sales, Service, Repairs Parts and Leasing"
+  },
+  {
+    "MCC": 5531,
+    "Merchant Category": "Auto and Home Supply Stores"
+  },
+  {
+    "MCC": 5532,
+    "Merchant Category": "Automotive Tire Stores"
+  },
+  {
+    "MCC": 5533,
+    "Merchant Category": "Automotive Parts and Accessories Stores"
+  },
+  {
+    "MCC": 5541,
+    "Merchant Category": "Service Stations"
+  },
+  {
+    "MCC": 5542,
+    "Merchant Category": "Automated Fuel Dispensers"
+  },
+  {
+    "MCC": 5551,
+    "Merchant Category": "Boat Dealers"
+  },
+  {
+    "MCC": 5561,
+    "Merchant Category": "Motorcycle Shops, Dealers"
+  },
+  {
+    "MCC": 5571,
+    "Merchant Category": "Motorcycle Shops and Dealers"
+  },
+  {
+    "MCC": 5592,
+    "Merchant Category": "Motor Homes Dealers"
+  },
+  {
+    "MCC": 5598,
+    "Merchant Category": "Snowmobile Dealers"
+  },
+  {
+    "MCC": 5599,
+    "Merchant Category": "Miscellaneous Auto Dealers"
+  },
+  {
+    "MCC": 5611,
+    "Merchant Category": "Men�s and Boy�s Clothing and Accessories Stores"
+  },
+  {
+    "MCC": 5621,
+    "Merchant Category": "Women�s Ready-To-Wear Stores"
+  },
+  {
+    "MCC": 5631,
+    "Merchant Category": "Women�s Accessory and Specialty Shops"
+  },
+  {
+    "MCC": 5641,
+    "Merchant Category": "Children�s and Infant�s Wear Stores"
+  },
+  {
+    "MCC": 5651,
+    "Merchant Category": "Family Clothing Stores"
+  },
+  {
+    "MCC": 5655,
+    "Merchant Category": "Sports and Riding Apparel Stores"
+  },
+  {
+    "MCC": 5661,
+    "Merchant Category": "Shoe Stores"
+  },
+  {
+    "MCC": 5681,
+    "Merchant Category": "Furriers and Fur Shops"
+  },
+  {
+    "MCC": 5691,
+    "Merchant Category": "Men�s, Women�s Clothing Stores"
+  },
+  {
+    "MCC": 5697,
+    "Merchant Category": "Tailors, Alterations"
+  },
+  {
+    "MCC": 5698,
+    "Merchant Category": "Wig and Toupee Stores"
+  },
+  {
+    "MCC": 5699,
+    "Merchant Category": "Miscellaneous Apparel and Accessory Shops"
+  },
+  {
+    "MCC": 5712,
+    "Merchant Category": "Furniture, Home Furnishings, and Equipment Stores, Except Appliances"
+  },
+  {
+    "MCC": 5713,
+    "Merchant Category": "Floor Covering Stores"
+  },
+  {
+    "MCC": 5714,
+    "Merchant Category": "Drapery, Window Covering, and Upholstery Stores"
+  },
+  {
+    "MCC": 5718,
+    "Merchant Category": "Fireplace, Fireplace Screens, and Accessories Stores"
+  },
+  {
+    "MCC": 5719,
+    "Merchant Category": "Miscellaneous Home Furnishing Specialty Stores"
+  },
+  {
+    "MCC": 5722,
+    "Merchant Category": "Household Appliance Stores"
+  },
+  {
+    "MCC": 5732,
+    "Merchant Category": "Electronics Stores"
+  },
+  {
+    "MCC": 5733,
+    "Merchant Category": "Music Stores-Musical Instruments, Pianos, and Sheet Music"
+  },
+  {
+    "MCC": 5734,
+    "Merchant Category": "Computer Software Stores"
+  },
+  {
+    "MCC": 5735,
+    "Merchant Category": "Record Stores"
+  },
+  {
+    "MCC": 5811,
+    "Merchant Category": "Caterers"
+  },
+  {
+    "MCC": 5812,
+    "Merchant Category": "Eating Places, Restaurants"
+  },
+  {
+    "MCC": 5813,
+    "Merchant Category": "Drinking Places"
+  },
+  {
+    "MCC": 5814,
+    "Merchant Category": "Fast Food Restaurants"
+  },
+  {
+    "MCC": 5912,
+    "Merchant Category": "Drug Stores and Pharmacies"
+  },
+  {
+    "MCC": 5921,
+    "Merchant Category": "Package Stores-Beer, Wine, and Liquor"
+  },
+  {
+    "MCC": 5931,
+    "Merchant Category": "Used Merchandise and Secondhand Stores"
+  },
+  {
+    "MCC": 5932,
+    "Merchant Category": "Antique Shops"
+  },
+  {
+    "MCC": 5933,
+    "Merchant Category": "Pawn Shops"
+  },
+  {
+    "MCC": 5935,
+    "Merchant Category": "Wrecking and Salvage Yards"
+  },
+  {
+    "MCC": 5937,
+    "Merchant Category": "Antique Reproductions"
+  },
+  {
+    "MCC": 5940,
+    "Merchant Category": "Bicycle Shops"
+  },
+  {
+    "MCC": 5941,
+    "Merchant Category": "Sporting Goods Stores"
+  },
+  {
+    "MCC": 5942,
+    "Merchant Category": "Book Stores"
+  },
+  {
+    "MCC": 5943,
+    "Merchant Category": "Stationery Stores, Office, and School Supply Stores"
+  },
+  {
+    "MCC": 5944,
+    "Merchant Category": "Jewelry Stores, Watches, Clocks, and Silverware Stores"
+  },
+  {
+    "MCC": 5945,
+    "Merchant Category": "Hobby, Toy, and Game Shops"
+  },
+  {
+    "MCC": 5946,
+    "Merchant Category": "Camera and Photographic Supply Stores"
+  },
+  {
+    "MCC": 5947,
+    "Merchant Category": "Gift, Card, Novelty, and Souvenir Shops"
+  },
+  {
+    "MCC": 5948,
+    "Merchant Category": "Luggage and Leather Goods Stores"
+  },
+  {
+    "MCC": 5949,
+    "Merchant Category": "Sewing, Needlework, Fabric, and Piece Goods Stores"
+  },
+  {
+    "MCC": 5950,
+    "Merchant Category": "Glassware, Crystal Stores"
+  },
+  {
+    "MCC": 5960,
+    "Merchant Category": "Direct Marketing - Insurance Services"
+  },
+  {
+    "MCC": 5962,
+    "Merchant Category": "Direct Marketing - Travel"
+  },
+  {
+    "MCC": 5963,
+    "Merchant Category": "Door-To-Door Sales"
+  },
+  {
+    "MCC": 5964,
+    "Merchant Category": "Direct Marketing - Catalog Merchant"
+  },
+  {
+    "MCC": 5965,
+    "Merchant Category": "Direct Marketing - Combination Catalog and Retail Merchant"
+  },
+  {
+    "MCC": 5966,
+    "Merchant Category": "Direct Marketing - Outbound Tele"
+  },
+  {
+    "MCC": 5967,
+    "Merchant Category": "Direct Marketing - Inbound Tele"
+  },
+  {
+    "MCC": 5968,
+    "Merchant Category": "Direct Marketing - Subscription"
+  },
+  {
+    "MCC": 5969,
+    "Merchant Category": "Direct Marketing - Other"
+  },
+  {
+    "MCC": 5970,
+    "Merchant Category": "Artist�s Supply and Craft Shops"
+  },
+  {
+    "MCC": 5971,
+    "Merchant Category": "Art Dealers and Galleries"
+  },
+  {
+    "MCC": 5972,
+    "Merchant Category": "Stamp and Coin Stores"
+  },
+  {
+    "MCC": 5973,
+    "Merchant Category": "Religious Goods Stores"
+  },
+  {
+    "MCC": 5975,
+    "Merchant Category": "Hearing Aids Sales and Supplies"
+  },
+  {
+    "MCC": 5976,
+    "Merchant Category": "Orthopedic Goods - Prosthetic Devices"
+  },
+  {
+    "MCC": 5977,
+    "Merchant Category": "Cosmetic Stores"
+  },
+  {
+    "MCC": 5978,
+    "Merchant Category": "Typewriter Stores"
+  },
+  {
+    "MCC": 5983,
+    "Merchant Category": "Fuel Dealers (Non Automotive)"
+  },
+  {
+    "MCC": 5992,
+    "Merchant Category": "Florists"
+  },
+  {
+    "MCC": 5993,
+    "Merchant Category": "Cigar Stores and Stands"
+  },
+  {
+    "MCC": 5994,
+    "Merchant Category": "News Dealers and Newsstands"
+  },
+  {
+    "MCC": 5995,
+    "Merchant Category": "Pet Shops, Pet Food, and Supplies"
+  },
+  {
+    "MCC": 5996,
+    "Merchant Category": "Swimming Pools Sales"
+  },
+  {
+    "MCC": 5997,
+    "Merchant Category": "Electric Razor Stores"
+  },
+  {
+    "MCC": 5998,
+    "Merchant Category": "Tent and Awning Shops"
+  },
+  {
+    "MCC": 5999,
+    "Merchant Category": "Miscellaneous Specialty Retail"
+  },
+  {
+    "MCC": 6010,
+    "Merchant Category": "Manual Cash Disburse"
+  },
+  {
+    "MCC": 6011,
+    "Merchant Category": "Automated Cash Disburse"
+  },
+  {
+    "MCC": 6012,
+    "Merchant Category": "Financial Institutions"
+  },
+  {
+    "MCC": 6051,
+    "Merchant Category": "Non-FI, Money Orders"
+  },
+  {
+    "MCC": 6211,
+    "Merchant Category": "Security Brokers/Dealers"
+  },
+  {
+    "MCC": 6300,
+    "Merchant Category": "Insurance Underwriting, Premiums"
+  },
+  {
+    "MCC": 6399,
+    "Merchant Category": "Insurance - Default"
+  },
+  {
+    "MCC": 6513,
+    "Merchant Category": "Real Estate Agents and Managers - Rentals"
+  },
+  {
+    "MCC": 7011,
+    "Merchant Category": "Hotels, Motels, and Resorts"
+  },
+  {
+    "MCC": 7012,
+    "Merchant Category": "Timeshares"
+  },
+  {
+    "MCC": 7032,
+    "Merchant Category": "Sporting/Recreation Camps"
+  },
+  {
+    "MCC": 7033,
+    "Merchant Category": "Trailer Parks, Campgrounds"
+  },
+  {
+    "MCC": 7210,
+    "Merchant Category": "Laundry, Cleaning Services"
+  },
+  {
+    "MCC": 7211,
+    "Merchant Category": "Laundries"
+  },
+  {
+    "MCC": 7216,
+    "Merchant Category": "Dry Cleaners"
+  },
+  {
+    "MCC": 7217,
+    "Merchant Category": "Carpet/Upholstery Cleaning"
+  },
+  {
+    "MCC": 7221,
+    "Merchant Category": "Photographic Studios"
+  },
+  {
+    "MCC": 7230,
+    "Merchant Category": "Barber and Beauty Shops"
+  },
+  {
+    "MCC": 7251,
+    "Merchant Category": "Shoe Repair/Hat Cleaning"
+  },
+  {
+    "MCC": 7261,
+    "Merchant Category": "Funeral Services, Crematories"
+  },
+  {
+    "MCC": 7273,
+    "Merchant Category": "Dating/Escort Services"
+  },
+  {
+    "MCC": 7276,
+    "Merchant Category": "Tax Preparation Services"
+  },
+  {
+    "MCC": 7277,
+    "Merchant Category": "Counseling Services"
+  },
+  {
+    "MCC": 7278,
+    "Merchant Category": "Buying/Shopping Services"
+  },
+  {
+    "MCC": 7296,
+    "Merchant Category": "Clothing Rental"
+  },
+  {
+    "MCC": 7297,
+    "Merchant Category": "Massage Parlors"
+  },
+  {
+    "MCC": 7298,
+    "Merchant Category": "Health and Beauty Spas"
+  },
+  {
+    "MCC": 7299,
+    "Merchant Category": "Miscellaneous General Services"
+  },
+  {
+    "MCC": 7311,
+    "Merchant Category": "Advertising Services"
+  },
+  {
+    "MCC": 7321,
+    "Merchant Category": "Credit Reporting Agencies"
+  },
+  {
+    "MCC": 7333,
+    "Merchant Category": "Commercial Photography, Art and Graphics"
+  },
+  {
+    "MCC": 7338,
+    "Merchant Category": "Quick Copy, Repro, and Blueprint"
+  },
+  {
+    "MCC": 7339,
+    "Merchant Category": "Secretarial Support Services"
+  },
+  {
+    "MCC": 7342,
+    "Merchant Category": "Exterminating Services"
+  },
+  {
+    "MCC": 7349,
+    "Merchant Category": "Cleaning and Maintenance"
+  },
+  {
+    "MCC": 7361,
+    "Merchant Category": "Employment/Temp Agencies"
+  },
+  {
+    "MCC": 7372,
+    "Merchant Category": "Computer Programming"
+  },
+  {
+    "MCC": 7375,
+    "Merchant Category": "Information Retrieval Services"
+  },
+  {
+    "MCC": 7379,
+    "Merchant Category": "Computer Repair"
+  },
+  {
+    "MCC": 7392,
+    "Merchant Category": "Consulting, Public Relations"
+  },
+  {
+    "MCC": 7393,
+    "Merchant Category": "Detective Agencies"
+  },
+  {
+    "MCC": 7394,
+    "Merchant Category": "Equipment Rental"
+  },
+  {
+    "MCC": 7395,
+    "Merchant Category": "Photo Developing"
+  },
+  {
+    "MCC": 7399,
+    "Merchant Category": "Miscellaneous Business Services"
+  },
+  {
+    "MCC": 7511,
+    "Merchant Category": "Truck Stop"
+  },
+  {
+    "MCC": 7512,
+    "Merchant Category": "Car Rental Agencies"
+  },
+  {
+    "MCC": 7513,
+    "Merchant Category": "Truck/Utility Trailer Rentals"
+  },
+  {
+    "MCC": 7519,
+    "Merchant Category": "Recreational Vehicle Rentals"
+  },
+  {
+    "MCC": 7523,
+    "Merchant Category": "Parking Lots, Garages"
+  },
+  {
+    "MCC": 7531,
+    "Merchant Category": "Auto Body Repair Shops"
+  },
+  {
+    "MCC": 7534,
+    "Merchant Category": "Tire Retreading and Repair"
+  },
+  {
+    "MCC": 7535,
+    "Merchant Category": "Auto Paint Shops"
+  },
+  {
+    "MCC": 7538,
+    "Merchant Category": "Auto Service Shops"
+  },
+  {
+    "MCC": 7542,
+    "Merchant Category": "Car Washes"
+  },
+  {
+    "MCC": 7549,
+    "Merchant Category": "Towing Services"
+  },
+  {
+    "MCC": 7622,
+    "Merchant Category": "Electronics Repair Shops"
+  },
+  {
+    "MCC": 7623,
+    "Merchant Category": "A/C, Refrigeration Repair"
+  },
+  {
+    "MCC": 7629,
+    "Merchant Category": "Small Appliance Repair"
+  },
+  {
+    "MCC": 7631,
+    "Merchant Category": "Watch/Jewelry Repair"
+  },
+  {
+    "MCC": 7641,
+    "Merchant Category": "Furniture Repair, Refinishing"
+  },
+  {
+    "MCC": 7692,
+    "Merchant Category": "Welding Repair"
+  },
+  {
+    "MCC": 7699,
+    "Merchant Category": "Miscellaneous Repair Shops"
+  },
+  {
+    "MCC": 7829,
+    "Merchant Category": "Picture/Video Production"
+  },
+  {
+    "MCC": 7832,
+    "Merchant Category": "Motion Picture Theaters"
+  },
+  {
+    "MCC": 7841,
+    "Merchant Category": "Video Tape Rental Stores"
+  },
+  {
+    "MCC": 7911,
+    "Merchant Category": "Dance Hall, Studios, Schools"
+  },
+  {
+    "MCC": 7922,
+    "Merchant Category": "Theatrical Ticket Agencies"
+  },
+  {
+    "MCC": 7929,
+    "Merchant Category": "Bands, Orchestras"
+  },
+  {
+    "MCC": 7932,
+    "Merchant Category": "Billiard/Pool Establishments"
+  },
+  {
+    "MCC": 7933,
+    "Merchant Category": "Bowling Alleys"
+  },
+  {
+    "MCC": 7941,
+    "Merchant Category": "Sports Clubs/Fields"
+  },
+  {
+    "MCC": 7991,
+    "Merchant Category": "Tourist Attractions and Exhibits"
+  },
+  {
+    "MCC": 7992,
+    "Merchant Category": "Golf Courses - Public"
+  },
+  {
+    "MCC": 7993,
+    "Merchant Category": "Video Amusement Game Supplies"
+  },
+  {
+    "MCC": 7994,
+    "Merchant Category": "Video Game Arcades"
+  },
+  {
+    "MCC": 7995,
+    "Merchant Category": "Betting/Casino Gambling"
+  },
+  {
+    "MCC": 7996,
+    "Merchant Category": "Amusement Parks/Carnivals"
+  },
+  {
+    "MCC": 7997,
+    "Merchant Category": "Country Clubs"
+  },
+  {
+    "MCC": 7998,
+    "Merchant Category": "Aquariums"
+  },
+  {
+    "MCC": 7999,
+    "Merchant Category": "Miscellaneous Recreation Services"
+  },
+  {
+    "MCC": 8011,
+    "Merchant Category": "Doctors"
+  },
+  {
+    "MCC": 8021,
+    "Merchant Category": "Dentists, Orthodontists"
+  },
+  {
+    "MCC": 8031,
+    "Merchant Category": "Osteopaths"
+  },
+  {
+    "MCC": 8041,
+    "Merchant Category": "Chiropractors"
+  },
+  {
+    "MCC": 8042,
+    "Merchant Category": "Optometrists, Ophthalmologist"
+  },
+  {
+    "MCC": 8043,
+    "Merchant Category": "Opticians, Eyeglasses"
+  },
+  {
+    "MCC": 8049,
+    "Merchant Category": "Chiropodists, Podiatrists"
+  },
+  {
+    "MCC": 8050,
+    "Merchant Category": "Nursing/Personal Care"
+  },
+  {
+    "MCC": 8062,
+    "Merchant Category": "Hospitals"
+  },
+  {
+    "MCC": 8071,
+    "Merchant Category": "Medical and Dental Labs"
+  },
+  {
+    "MCC": 8099,
+    "Merchant Category": "Medical Services"
+  },
+  {
+    "MCC": 8111,
+    "Merchant Category": "Legal Services, Attorneys"
+  },
+  {
+    "MCC": 8211,
+    "Merchant Category": "Elementary, Secondary Schools"
+  },
+  {
+    "MCC": 8220,
+    "Merchant Category": "Colleges, Universities"
+  },
+  {
+    "MCC": 8241,
+    "Merchant Category": "Correspondence Schools"
+  },
+  {
+    "MCC": 8244,
+    "Merchant Category": "Business/Secretarial Schools"
+  },
+  {
+    "MCC": 8249,
+    "Merchant Category": "Vocational/Trade Schools"
+  },
+  {
+    "MCC": 8299,
+    "Merchant Category": "Educational Services"
+  },
+  {
+    "MCC": 8351,
+    "Merchant Category": "Child Care Services"
+  },
+  {
+    "MCC": 8398,
+    "Merchant Category": "Charitable and Social Service Organizations - Fundraising"
+  },
+  {
+    "MCC": 8641,
+    "Merchant Category": "Civic, Social, Fraternal Associations"
+  },
+  {
+    "MCC": 8651,
+    "Merchant Category": "Political Organizations"
+  },
+  {
+    "MCC": 8661,
+    "Merchant Category": "Religious Organizations"
+  },
+  {
+    "MCC": 8675,
+    "Merchant Category": "Automobile Associations"
+  },
+  {
+    "MCC": 8699,
+    "Merchant Category": "Membership Organizations"
+  },
+  {
+    "MCC": 8734,
+    "Merchant Category": "Testing Laboratories"
+  },
+  {
+    "MCC": 8911,
+    "Merchant Category": "Architectural/Surveying Services"
+  },
+  {
+    "MCC": 8931,
+    "Merchant Category": "Accounting/Bookkeeping Services"
+  },
+  {
+    "MCC": 8999,
+    "Merchant Category": "Professional Services"
+  },
+  {
+    "MCC": 9211,
+    "Merchant Category": "Court Costs, Including Alimony and Child Support - Courts of Law"
+  },
+  {
+    "MCC": 9222,
+    "Merchant Category": "Fines - Government Administrative Entities"
+  },
+  {
+    "MCC": 9223,
+    "Merchant Category": "Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency)"
+  },
+  {
+    "MCC": 9311,
+    "Merchant Category": "Tax Payments - Government Agencies"
+  },
+  {
+    "MCC": 9399,
+    "Merchant Category": "Government Services (Not Elsewhere Classified)"
+  },
+  {
+    "MCC": 9402,
+    "Merchant Category": "Postal Services - Government Only"
+  },
+  {
+    "MCC": 9405,
+    "Merchant Category": "U.S. Federal Government Agencies or Departments"
+  },
+  {
+    "MCC": 9950,
+    "Merchant Category": "Intra-Company Purchases"
+  }
+]

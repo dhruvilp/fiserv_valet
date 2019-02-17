@@ -1,0 +1,36 @@
+[
+    {
+      "Cardholder ID": "4231 0000 0000 1001",
+      "Cardholder Name": "John Smith",
+      "Transaction Date & Time": "02112019 4:20:30",
+      "MCC": "5661",
+      "Merchant Name": "DSW Shoe Warehouse",
+      "Transaction Amount": "97.99",
+      "CNP": "Y",
+      "Type of transaction": "POS Purchase",
+      "Terminal State": "NJ",
+      "Terminal City": "Rockaway",
+      "Terminal Country": "US",
+      "Terminal Zip Code": "7866",
+      "POS Geo location": "46°13'59'' N; 6°3'20'' E\"",
+      "P2P": "N",
+      "Type of Payment": "ApplePay"
+    },
+    {
+    "Cardholder ID": "4231 0000 0000 2002",
+    "Cardholder Name": "Kiran Paul",
+    "Transaction Date & Time": "02112019 4:20:30",
+    "MCC": "5661",
+    "Merchant Name": "DSW Shoe Warehouse",
+    "Transaction Amount": "97.99",
+    "CNP": "Y",
+    "Type of transaction": "POS Purchase",
+    "Terminal State": "NJ",
+    "Terminal City": "Rockaway",
+    "Terminal Country": "US",
+    "Terminal Zip Code": "7866",
+    "POS Geo location": "46°13'59'' N; 6°3'20'' E\"",
+    "P2P": "N",
+    "Type of Payment": "ApplePay"
+    }
+]
