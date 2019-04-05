@@ -1,8 +1,9 @@
 # fiserv_wallet (DIANO WALLET)
 
 <img align="right" src="./assets/images/diano_wallet.png" height="200">
-- A new Flutter application at HackHERS 2019
-- Won first place price by Fiserv at HackHERS Hackathon 2019
+### A new Flutter application at HackHERS 2019
+
+### Won first place price by Fiserv at HackHERS Hackathon 2019
 
 ## Getting Started
 
